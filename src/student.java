@@ -11,4 +11,5 @@ public class student {
         public void podajindex() {
             System.out.println("Mój numer indeksu to " + index);}
 
+
                 }

@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class checkstudent {
     public static void main(String[] args) {
         student adam= new student();
@@ -28,6 +30,11 @@ public class checkstudent {
             student.przedstawsie();
             student.podajmaila();
             student.podajindex();
+
+
+            String plec;
+            Scanner dom;
+
         }
 
     }
