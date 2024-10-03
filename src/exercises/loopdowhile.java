@@ -1,3 +1,5 @@
+package exercises;
+
 public class loopdowhile {
 
     public static void main(String[] args) {

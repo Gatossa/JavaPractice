@@ -1,3 +1,5 @@
+package exercises;
+
 public class Auto {
 
     public String marka;

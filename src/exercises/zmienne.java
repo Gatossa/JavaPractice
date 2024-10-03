@@ -1,3 +1,5 @@
+package exercises;
+
 public class zmienne {
 public static void main(String[] args) {
     String     Nazwa=  "Agata";

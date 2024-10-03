@@ -1,3 +1,5 @@
+package exercises;
+
 public class instrukcjeWarunkowe {
 
     public static void main(String[] args) {
