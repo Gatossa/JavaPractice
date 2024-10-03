@@ -1,3 +1,5 @@
+package exercises;
+
 public class metodyTest {
     /*public static void main(String[] args) {
         metody Metody=new metody();

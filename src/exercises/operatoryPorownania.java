@@ -1,3 +1,5 @@
+package exercises;
+
 public class operatoryPorownania
 {
     public static void main(String[] args) {

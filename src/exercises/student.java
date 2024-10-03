@@ -1,3 +1,5 @@
+package exercises;
+
 public class student {
         public String imie;
         public String nazwisko;

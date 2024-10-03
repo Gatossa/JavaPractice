@@ -1,3 +1,5 @@
+package exercises;
+
 public class tablice {
     public static void main(String[] args) {
         String[] names = new String[3];

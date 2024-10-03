@@ -1,3 +1,5 @@
+package exercises;
+
 public class metody {
 
     /*public void policzWynik() {

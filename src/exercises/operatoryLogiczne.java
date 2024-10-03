@@ -1,3 +1,5 @@
+package exercises;
+
 public class operatoryLogiczne {
     public static void main(String[] args) {
         boolean firstValue=true;
